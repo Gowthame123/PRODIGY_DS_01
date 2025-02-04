@@ -70,10 +70,6 @@ python population_analysis.py
 This project is open-source under the MIT License.
 
 ---
-### 🔗 Connect with Me
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)  
-🐦 Twitter: [Your Twitter](https://twitter.com/yourhandle)
 
 **Star ⭐ this repository if you found it useful!** 🚀
 
